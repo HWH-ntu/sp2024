@@ -4,3 +4,6 @@
 [submodule "sp2024-hw2-HWH-ntu"]
 	path = sp2024-hw2-HWH-ntu
 	url = git@github.com:HWH-ntu/sp2024-hw2-HWH-ntu.git
+[submodule "sp2024-hw3-HWH-ntu"]
+	path = sp2024-hw3-HWH-ntu
+	url = git@github.com:HWH-ntu/sp2024-hw3-HWH-ntu.git
